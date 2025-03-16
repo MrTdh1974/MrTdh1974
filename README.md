@@ -4,7 +4,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/MrTdh1974/os-ticket-prereqs
+  - [osTicket: Prerequisites and Installation](https://github.com/MrTdh1974/os-ticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/MrTdh1974/post-install-configuration
   - [osTicket: Ticket Lifecycle Examples](https://github.com/MrTdh1974/ticket-lifecycle
  
