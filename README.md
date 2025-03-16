@@ -11,7 +11,7 @@
     
 - <b>Microsoft Azure</b>
 
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MrTdh1974/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MrTdh1974/Active-Directory)
  
 
 <h2>Certifications</h2>
